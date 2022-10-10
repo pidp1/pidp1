@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pedro Imparato</h1>
 <h3 align="center">I'm passionate about learning!</h3>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pidp1&show_icons=true&locale=en&layout=compact" alt="pidp1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pidp1&show_icons=true&locale=en" alt="pidp1" /></p>
+
 - 🌱 I’m currently learning **CSS, HTML, JavaScript, Java, Spring, Angular**
 
 - 📫 How to reach me **pedro.imparato@gmail.com**
