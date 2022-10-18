@@ -8,13 +8,13 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pidp1&show_icons=true&locale=en&layout=compact" alt="pidp1" /></p>
 
 
-
+<div align="center">
 - 🌱 I’m currently learning **CSS, HTML, JavaScript, Java, Spring, Angular** at the <a href="https://soulcodeacademy.org/">Soulcode Academy bootcamp</a>
 
 - 📫 How to reach me **pedro.imparato@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pedro-imparato-96ab716b/](https://www.linkedin.com/in/pedro-imparato-96ab716b/)
-
+</div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/pedroimparato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pedroimparato" height="30" width="40" /></a>
