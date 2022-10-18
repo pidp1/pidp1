@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pedro Imparato</h1>
-<h3 align="center">I'm passionate about learning!</h3>
+<h3 align="center">I'm passionate about learning! </h3>
+<h4 align="center">The thrill of getting to understand a subject that was previously unknown or even scary is ont of the best things in life!</h4>
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pidp1&show_icons=true&locale=en" alt="pidp1" /></p>
